@@ -1,8 +1,9 @@
 package main
-
+#las librerias se importan entre comillas
 import "fmt"
 
 func main(){
-    fmt.Println("Hola Mundo!")
+    fmt.Println("Hola Mundo!") #imprime el mensaje hola mundo
 }
+//Wendy
 // laynerker
